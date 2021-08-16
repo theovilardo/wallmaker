@@ -1,115 +1,309 @@
 [
       {
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
+		"name": "Android 12 Night",
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/A12Pink.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/A12Pink.jpg",
+		"dimensions": "1284x2778",
 		"copyright": "Unknown",
-		"collections": "landscapes"
+		"collections": "landscapes,stock"
 	},
       {
-		"name": "ShotA",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
-		"collections": "featured,landscapes,people"
-	},
-	{
-		"name": "ShotB",
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png",
-		"dimensions": "3200x2560",
-		"collections": "people,city",
-		"downloadable": false
-	},
-	{
-		"author": "Someone",
-		"url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg",
-		"name": "ShotC",
-		"dimensions": "1280x720",
-		"copyright": "Credits to its creator",
-		"collections": "landscapes,city"
-	},
-	{
-		"name": "Wallsplash 1",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_a.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_a.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,city",
+		"name": "Monterrey Pink",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Apple%20OS%20Monterey5541%20(3).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Apple%20OS%20Monterey5541%20(3).jpg",
+		"dimensions": "3000x3000",
+		"collections": "abstract,stock,featured",
 		"featured": true
 	},
 	{
-		"name": "Wallsplash 2",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_b.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_b.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes,people,food"
+		"name": "Apple HiSpeed",
+		"author": "Apple",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-AR7-no-logo.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-AR7-no-logo.png",
+		"dimensions": "1242x2688",
+		"copyright": "Credits to its creator",
+		"collections": "stock,abstract"
 	},
 	{
-		"name": "Wallsplash 3",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_c.png",
-		"thumbnail": "https://via.placeholder.com/450",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,food,people"
+		"name": "Apple HiSpeed 2",
+		"author": "Apple",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-FlareZephyr.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-FlareZephyr.png",
+		"dimensions": "1242x2688",
+		"copyright": "Credits to its creator",
+		"collections": "stock,abstract"
 	},
 	{
-		"name": "Wallsplash 4",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people,city"
+		"name": "Pixel 6 Blue",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true
 	},
 	{
-		"name": "Wallsplash 5",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_e.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_e.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,landscapes"
+		"name": "Pixel 6 Purple",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(3).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(3).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true
 	},
 	{
-		"name": "Wallsplash 6",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_f.png",
-		"thumbnail": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_f.png",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "featured,people"
+		"name": "Pixel 6 Beige",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(4).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(4).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true
 	},
 	{
-		"name": "Wallsplash 7",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_g.png",
-		"thumbnail": "https://via.placeholder.com/500",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "landscapes,people"
+		"name": "Pixel 6 Dark Red",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(6).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(6).jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true
 	},
 	{
-		"name": "Wallsplash 8",
-		"author": "wallsplash",
-		"url": "https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_h.png",
-		"thumbnail": "https://via.placeholder.com/150",
-		"dimensions": "3200x2560",
-		"copyright": "Free (do whatever you want)",
-		"collections": "food"
+		"name": "Pixel 6 Pink",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837.jpg",
+		"dimensions": "3080x3920",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true
 	},
 	{
-		"name": "Webp Image",
-		"author": "unknown",
-		"url": "https://www.gstatic.com/webp/gallery/4.webp",
-		"thumbnail": "https://www.gstatic.com/webp/gallery/5.webp",
-		"dimensions": "3200x2560",
-		"copyright": "Unknown",
-		"collections": "landscapes"
+		"name": "Mountain Night",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Lenovo%20S51208.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Lenovo%20S51208.jpg",
+		"dimensions": "1080x2160",
+		"copyright": "Free",
+		"collections": "stock,featured,landscapes",
+		"featured": true
+	},
+	{
+		"name": "Mountain Glass",
+		"author": "Me, OPPO",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5609.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5609.jpg",
+		"dimensions": "1080x2400",
+		"copyright": "Free",
+		"collections": "abstract,stock,featured",
+		"featured": true
+	},
+	{
+		"name": "Purple Shades",
+		"author": "Me, OPPO",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
+		"dimensions": "1080x2400",
+		"copyright": "Free (do whatever you want)",
+		"collections": "abstract,stock,featured",
+		"featured": true
+	},
+	{
+		"name": "Blue Shades",
+		"author": "OPPO",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611.jpg",
+		"dimensions": "1080x2400",
+		"copyright": "OPPO?",
+		"collections": "abstract,stock"
+	},
+	{
+		"name": "Pixel 6 Renders",
+		"author": "Ian Zelbo",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
+		"dimensions": "1440x3120",
+		"copyright": "Credits to it's creator",
+		"collections": "abstract,stock"
+	},
+	{
+		"name": "Stone Pile",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Phantom%20X5596.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Phantom%20X5596.jpg",
+		"dimensions": "1080x2340",
+		"copyright": "Free",
+		"collections": "objects,stock,featured",
+		"featured": true
+	},
+	{
+		"name": "ClownFish",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Spark%207%20Pro5700%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Spark%207%20Pro5700%20(1).jpg",
+		"dimensions": "1080x2400",
+		"copyright": "Free",
+		"collections": "stock,featured",
+		"featured": true
+	},
+	{
+		"name": "Mi 11 Red Mountain",
+		"author": "Me, Xiaomi",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20Mi%2011%20Ultra5374.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20Mi%2011%20Ultra5374.jpg",
+		"dimensions": "1080x2400",
+		"collections": "stock,featured,landscapes",
+		"featured": true
+	},
+	{
+		"name": "Clear Coast",
+		"author": "ZTE",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/ZTE%20Axon%20305706.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/ZTE%20Axon%20305706.jpg",
+		"dimensions": "1440x3120",
+		"copyright": "Credits to ZTE",
+		"collections": "earth,stock"
+	},
+	{
+		"name": "Dark Red Fluids",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
+		"dimensions": "2327x3490",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Fluids Mix",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Fluids Mix Landscape",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628771281109.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628771281109.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Fluids Mix Portrait",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772383102.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772383102.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Orange Fluids",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-pk_LRlO-PMk_1628750105212.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-pk_LRlO-PMk_1628750105212.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Redish Fluids",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/erik-mclean-Feljc5x84v8_1628771067158.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/erik-mclean-Feljc5x84v8_1628771067158.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Fluid Mount",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/francesco-tommasini-wdUjA_RN-p0_1628769746725.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/francesco-tommasini-wdUjA_RN-p0_1628769746725.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Tiger",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/luwadlin-bosman-VBsGiVFjiRk_1628770265016.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/luwadlin-bosman-VBsGiVFjiRk_1628770265016.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Fluid AMOLED",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/marcel-strau%C3%9F-ynXyESA6Fdg_1628769849389.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/marcel-strau%C3%9F-ynXyESA6Fdg_1628769849389.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Brown Fluids",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/mark-basarab-jq3-uQqPycA_1628751113342.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/mark-basarab-jq3-uQqPycA_1628751113342.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Fuchsia Haze",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/mark-basarab-jq3-uQqPycA_1628751739785.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/mark-basarab-jq3-uQqPycA_1628751739785.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Blue & Orange",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/matt-palmer-AuEVJLpb96k_1628769454631.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/matt-palmer-AuEVJLpb96k_1628769454631.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Rose'n'Black",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/saymom-le%C3%A3o-LH6yP8o1oPA_1628752024034.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/saymom-le%C3%A3o-LH6yP8o1oPA_1628752024034.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Sahara",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791143317.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791143317.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Sahara Lighter",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791183711.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791183711.png?raw=true",
+		"dimensions": "2328x3489",
+		"collections": "featured,abstract,fluid",
+		"featured": true
 	}
 ]
