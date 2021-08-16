@@ -305,5 +305,14 @@
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
 		"featured": true
+	},
+	{
+		"name": "Multicolor Fluid",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/01mFm_giy38-01~01_1629073357906.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/01mFm_giy38-01~01_1629073357906.png",
+		"dimensions": "2015x4030",
+		"collections": "featured,abstract,fluid",
+		"featured": true
 	}
 ]
