@@ -312,12 +312,12 @@
 		"featured": true
 	},
 	{
-		"name": "Pink Glass Flow",
+		"name": "Colliding Pills",
 		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5610_1629006002779.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5610_1629006002779.png",
-		"dimensions": "1080x2400",
-		"collections": "featured,abstract,fluid",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/colliding%20pills.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/colliding%20pills.png",
+		"dimensions": "375x812",
+		"collections": "featured,abstract,gradient",
 		"featured": true
 	},
 	{
@@ -408,6 +408,15 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/purple_droplet.png",
 		"dimensions": "1382x2991",
 		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Material Shapes",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes.png",
+		"dimensions": "375x812",
+		"collections": "featured,abstract,material you",
 		"featured": true
 	}
 ]
