@@ -8,15 +8,6 @@
 		"copyright": "Unknown",
 		"collections": "landscapes,stock"
 	},
-      {
-		"name": "Monterrey Pink",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Apple%20OS%20Monterey5541%20(3).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Apple%20OS%20Monterey5541%20(3).jpg",
-		"dimensions": "3000x3000",
-		"collections": "abstract,stock,featured",
-		"featured": true
-	},
 	{
 		"name": "Apple HiSpeed",
 		"author": "Apple",
@@ -86,26 +77,6 @@
 		"featured": true
 	},
 	{
-		"name": "Mountain Night",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Lenovo%20S51208.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Lenovo%20S51208.jpg",
-		"dimensions": "1080x2160",
-		"copyright": "Free",
-		"collections": "stock,featured,landscapes",
-		"featured": true
-	},
-	{
-		"name": "Mountain Glass",
-		"author": "Me, OPPO",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5609.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5609.jpg",
-		"dimensions": "1080x2400",
-		"copyright": "Free",
-		"collections": "abstract,stock,featured",
-		"featured": true
-	},
-	{
 		"name": "Purple Shades",
 		"author": "Me, OPPO",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
@@ -132,26 +103,6 @@
 		"dimensions": "1440x3120",
 		"copyright": "Credits to it's creator",
 		"collections": "abstract,stock"
-	},
-	{
-		"name": "Stone Pile",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Phantom%20X5596.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Phantom%20X5596.jpg",
-		"dimensions": "1080x2340",
-		"copyright": "Free",
-		"collections": "objects,stock,featured",
-		"featured": true
-	},
-	{
-		"name": "ClownFish",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Spark%207%20Pro5700%20(1).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Tecno%20Spark%207%20Pro5700%20(1).jpg",
-		"dimensions": "1080x2400",
-		"copyright": "Free",
-		"collections": "stock,featured",
-		"featured": true
 	},
 	{
 		"name": "Mi 11 Red Mountain",
@@ -330,15 +281,6 @@
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/977b7f15-a3a1-4b35-b705-f68d919a5c0f_1628976219202.png",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/977b7f15-a3a1-4b35-b705-f68d919a5c0f_1628976219202.png",
 		"dimensions": "1385x3000",
-		"collections": "featured,abstract,fluid",
-		"featured": true
-	},
-	{
-		"name": "Orange & Blue Sharps",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Huawei%20Nova%205%20Pro2831_1629074496871.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Huawei%20Nova%205%20Pro2831_1629074496871.png",
-		"dimensions": "2310x2310",
 		"collections": "featured,abstract,fluid",
 		"featured": true
 	},
