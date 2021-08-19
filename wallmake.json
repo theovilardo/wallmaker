@@ -71,7 +71,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
 		"dimensions": "2327x3490",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Fluids Mix",
@@ -80,7 +81,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772374004.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Fluids Mix Landscape",
