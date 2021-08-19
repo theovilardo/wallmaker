@@ -251,7 +251,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/Kd_IiyO7IqQ-01~01_1629073814506.png?raw=true",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Wing Mix",
@@ -260,7 +261,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/LG%20Wing4921_1629007008041.png",
 		"dimensions": "2127x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Galaxy Flow",
@@ -269,7 +271,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/MdGbzzn49-o-01~01_1628976431355.png?raw=true",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Night Valley Fluid",
@@ -278,7 +281,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/MsWZ18ySzco-01~01_1629070201469_1629071533162.png?raw=true",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Colliding Pills",
