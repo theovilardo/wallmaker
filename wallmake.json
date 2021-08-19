@@ -151,7 +151,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/marcel-strau%C3%9F-ynXyESA6Fdg_1628769849389.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Brown Fluids",
@@ -160,7 +161,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brown_fluids.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Fuchsia Haze",
@@ -169,7 +171,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/mark-basarab-jq3-uQqPycA_1628751739785.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Blue & Orange",
