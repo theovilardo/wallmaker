@@ -479,7 +479,7 @@
 		"dimensions": "1600x1600",
 		"collections": "featured,abstract,objects",
 		"featured": true,
-		"downloadable": false,
+		"downloadable": false
 	},
 	{
 		"name": "Flower 2",
