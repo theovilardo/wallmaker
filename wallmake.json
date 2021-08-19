@@ -121,7 +121,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/erik-mclean-Feljc5x84v8_1628771067158.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Fluid Mount",
@@ -130,7 +131,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/francesco-tommasini-wdUjA_RN-p0_1628769746725.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Tiger",
@@ -139,7 +141,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/luwadlin-bosman-VBsGiVFjiRk_1628770265016.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Fluid AMOLED",
