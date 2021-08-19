@@ -1,0 +1,14 @@
+[
+  {
+    "name": "First Wallpaper",
+    "url": "https://www.example.com/first-wallpaper.png"
+  },
+  {
+    "name": "Second Wallpaper",
+    "url": "https://www.example.com/second-wallpaper.png"
+  },
+  {
+    "name": "Third Wallpaper",
+    "url": "https://www.example.com/third-wallpaper.png"
+  }
+]
