@@ -211,7 +211,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791183711.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Multicolor Fluid",
@@ -220,7 +221,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/01mFm_giy38-01~01_1629073357906.png",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Banana Fluid",
@@ -229,7 +231,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/02_cedar_dark_1628975828177.png",
 		"dimensions": "1440x3120",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Glow Fluid",
@@ -238,7 +241,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/977b7f15-a3a1-4b35-b705-f68d919a5c0f_1628976219202.png",
 		"dimensions": "1385x3000",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Dessert Flow",
