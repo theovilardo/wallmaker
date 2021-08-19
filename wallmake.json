@@ -1,23 +1,5 @@
 [
 	{
-		"name": "Apple HiSpeed",
-		"author": "Apple",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-AR7-no-logo.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-AR7-no-logo.png",
-		"dimensions": "1242x2688",
-		"copyright": "Credits to its creator",
-		"collections": "stock,abstract"
-	},
-	{
-		"name": "Apple HiSpeed 2",
-		"author": "Apple",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-FlareZephyr.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Hi-Speed-wallpapers-Apple-Event-October-2020-iDownloadBlog-iPhone-FlareZephyr.png",
-		"dimensions": "1242x2688",
-		"copyright": "Credits to its creator",
-		"collections": "stock,abstract"
-	},
-	{
 		"name": "Pixel 6 Blue",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210614_105810_837%20(10)%20(1).jpg",
@@ -418,5 +400,236 @@
 		"dimensions": "375x812",
 		"collections": "featured,abstract,material you",
 		"featured": true
+	},
+	{
+		"name": "Purple Green Mix",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20Green%20mix.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20Green%20mix.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Purple Rock",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20rock.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20rock.png",
+		"dimensions": "1382x2991",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Darker Geode",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/darkergeode.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/darkergeode.png",
+		"dimensions": "1080x2460",
+		"collections": "featured,abstract,fluid,dark",
+		"featured": true
+	},
+	{
+		"name": "Blue Geode",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/bluegeode.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/bluegeode.png",
+		"dimensions": "1080x2460",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Emmerald Glow",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
+		"dimensions": "1080x2460",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Flower 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flower1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flower1.png",
+		"dimensions": "1600x1600",
+		"collections": "featured,abstract,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Flower 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flower2.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flower2.png",
+		"dimensions": "1600x1600",
+		"collections": "featured,abstract,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Emmerald Glow",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
+		"dimensions": "1080x2460",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Flowered Flow",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flowered%20flow.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flowered%20flow.png",
+		"dimensions": "1080x2460",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Joystick Blue",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flower2.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flower2.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,gradient,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Joystick Orange",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/joystick%20orange.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/joystick%20orange.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,gradient,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Joystick Orange",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/joystick%20red.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/joystick%20red.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,gradient,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Jungle Strip",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/junglestrip.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/junglestrip.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Lighten Colors Fluid",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/lighten%20colors%20fluid.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/lighten%20colors%20fluid.png",
+		"dimensions": "787x1280",
+		"collections": "featured,abstract,fluid",
+		"featured": true
+	},
+	{
+		"name": "Material You Draw Blue",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/lighten%20colors%20fluid.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/lighten%20colors%20fluid.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Draw Green",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20green.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20green.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Draw Orange",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20orange.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20draw%20orange.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Road Brown 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20brown1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20brown1.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Road Light Green",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20light%20green.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20light%20green.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Road Orange",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20orange.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20orange.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Road Tourquese",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20tourquese.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20road%20tourquese.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Shapes 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes%202-1.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes%202-1.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Thailand Fluid",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/thailandfluid.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/thailandfluid.png?raw=true",
+		"dimensions": "2015x4030",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Thailand Fluid Desaturated",
+		"author": "Me",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/thailandfluid_desaturated.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/thailandfluid_desaturated.png?raw=true",
+		"dimensions": "2015x4030",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
 	}
 ]
