@@ -426,7 +426,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/darkergeode.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid,dark",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Blue Geode",
@@ -435,7 +436,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/bluegeode.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Emmerald Glow",
