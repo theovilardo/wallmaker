@@ -411,7 +411,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20Green%20mix.png",
 		"dimensions": "1080x2400",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Purple Rock",
@@ -420,7 +421,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20rock.png",
 		"dimensions": "1382x2991",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Darker Geode",
