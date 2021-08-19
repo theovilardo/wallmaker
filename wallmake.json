@@ -7,8 +7,7 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Pixel 6 Purple",
@@ -18,8 +17,7 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Pixel 6 Beige",
@@ -29,8 +27,7 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Pixel 6 Dark Red",
@@ -40,8 +37,7 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Pixel 6 Pink",
@@ -51,8 +47,7 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Pixel 6 Renders",
@@ -62,7 +57,6 @@
 		"dimensions": "1440x3120",
 		"copyright": "Credits to it's creator",
 		"collections": "abstract,stock",
-		"downloadable": false
 	},
 	{
 		"name": "Mi 11 Red Mountain",
