@@ -249,7 +249,7 @@
 		"dimensions": "1440x3120",
 		"collections": "featured,abstract,fluid",
 		"featured": true,
-		"downloadable": false,
+		"downloadable": false
 	},
 	{
 		"name": "Glow Fluid",
