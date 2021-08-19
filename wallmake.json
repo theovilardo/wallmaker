@@ -331,7 +331,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Vivo%20Nex1393_1629007251407.png",
 		"dimensions": "1080x2160",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "River Flow",
@@ -340,7 +341,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20Mi%20Mix%2045732_1629004417203.png",
 		"dimensions": "1080x2340",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Beam Leak",
@@ -349,7 +351,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20POCO%20F11535_1629074956099.png",
 		"dimensions": "1080x2246",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Cappuccino Stain",
@@ -358,7 +361,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/cap_stain.png",
 		"dimensions": "1961x4140",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Purple Mix",
