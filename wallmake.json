@@ -291,7 +291,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/colliding%20pills.png",
 		"dimensions": "375x812",
 		"collections": "featured,abstract,gradient",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Night Coast Flow",
@@ -300,7 +301,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Samsung%20Galaxy%20A5024811010130_1629005530964.png",
 		"dimensions": "2160x2160",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Comet Form",
@@ -309,7 +311,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Samsung%20Galaxy%20M125264_1629008779029.png",
 		"dimensions": "1600x1600",
 		"collections": "featured,abstract,objects",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "FeinWall",
@@ -318,7 +321,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Screenshot_20210815-215013_Video%20Player_1629075267617_1629083772365.png",
 		"dimensions": "1080x2400",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Planetarian Fluid",
