@@ -40,7 +40,8 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Pixel 6 Pink",
@@ -50,7 +51,8 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Pixel 6 Renders",
@@ -59,7 +61,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
 		"dimensions": "1440x3120",
 		"copyright": "Credits to it's creator",
-		"collections": "abstract,stock"
+		"collections": "abstract,stock",
+		"downloadable": false
 	},
 	{
 		"name": "Dark Red Fluids",
