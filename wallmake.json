@@ -444,7 +444,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Flower 1",
@@ -465,15 +466,6 @@
 		"collections": "featured,abstract,objects",
 		"featured": true,
 		"downloadable": false
-	},
-	{
-		"name": "Emmerald Glow",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
-		"dimensions": "1080x2460",
-		"collections": "featured,abstract,fluid",
-		"featured": true
 	},
 	{
 		"name": "Flowered Flow",
