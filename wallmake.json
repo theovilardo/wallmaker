@@ -181,7 +181,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/matt-palmer-AuEVJLpb96k_1628769454631.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Rose'n'Black",
@@ -190,7 +191,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/saymom-le%C3%A3o-LH6yP8o1oPA_1628752024034.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Sahara",
@@ -199,7 +201,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791143317.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Sahara Lighter",
