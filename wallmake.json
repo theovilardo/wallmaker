@@ -91,7 +91,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628771281109.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Fluids Mix Portrait",
@@ -100,7 +101,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772383102.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Orange Fluids",
@@ -109,7 +111,8 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-pk_LRlO-PMk_1628750105212.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Redish Fluids",
