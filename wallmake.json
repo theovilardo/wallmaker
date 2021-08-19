@@ -530,7 +530,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/lighten%20colors%20fluid.png",
 		"dimensions": "787x1280",
 		"collections": "featured,abstract,fluid",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Material You Draw Blue",
