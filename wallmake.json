@@ -51,25 +51,6 @@
 		"featured": true
 	},
 	{
-		"name": "Purple Shades",
-		"author": "Me, OPPO",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
-		"dimensions": "1080x2400",
-		"copyright": "Free (do whatever you want)",
-		"collections": "abstract,stock,featured",
-		"featured": true
-	},
-	{
-		"name": "Blue Shades",
-		"author": "OPPO",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611.jpg",
-		"dimensions": "1080x2400",
-		"copyright": "OPPO?",
-		"collections": "abstract,stock"
-	},
-	{
 		"name": "Pixel 6 Renders",
 		"author": "Ian Zelbo",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
@@ -77,24 +58,6 @@
 		"dimensions": "1440x3120",
 		"copyright": "Credits to it's creator",
 		"collections": "abstract,stock"
-	},
-	{
-		"name": "Mi 11 Red Mountain",
-		"author": "Me, Xiaomi",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20Mi%2011%20Ultra5374.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20Mi%2011%20Ultra5374.jpg",
-		"dimensions": "1080x2400",
-		"collections": "stock,featured,landscapes",
-		"featured": true
-	},
-	{
-		"name": "Clear Coast",
-		"author": "ZTE",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/ZTE%20Axon%20305706.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/ZTE%20Axon%20305706.jpg",
-		"dimensions": "1440x3120",
-		"copyright": "Credits to ZTE",
-		"collections": "earth,stock"
 	},
 	{
 		"name": "Dark Red Fluids",
