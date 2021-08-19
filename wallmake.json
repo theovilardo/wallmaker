@@ -50,13 +50,32 @@
 		"featured": true
 	},
 	{
+		"name": "Purple Shades",
+		"author": "Me, OPPO",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611%20(1).jpg",
+		"dimensions": "1080x2400",
+		"copyright": "Free (do whatever you want)",
+		"collections": "abstract,stock,featured",
+		"featured": true
+	},
+	{
+		"name": "Blue Shades",
+		"author": "OPPO",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/OPPO%20Reno%206%20Pro5611.jpg",
+		"dimensions": "1080x2400",
+		"copyright": "OPPO?",
+		"collections": "abstract,stock"
+	},
+	{
 		"name": "Pixel 6 Renders",
 		"author": "Ian Zelbo",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Pix6_rend_1.png",
 		"dimensions": "1440x3120",
 		"copyright": "Credits to it's creator",
-		"collections": "abstract,stock",
+		"collections": "abstract,stock"
 	},
 	{
 		"name": "Mi 11 Red Mountain",
@@ -83,8 +102,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/alaksiej-%C4%8Darankievi%C4%8D-QimEwRMvK6w_1628789806654.png?raw=true",
 		"dimensions": "2327x3490",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Fluids Mix",
@@ -102,8 +120,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628771281109.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Fluids Mix Portrait",
@@ -112,8 +129,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-n9mCusGLk50_1628772383102.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Orange Fluids",
@@ -122,8 +138,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brady-stoeltzing-pk_LRlO-PMk_1628750105212.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Redish Fluids",
@@ -132,8 +147,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/erik-mclean-Feljc5x84v8_1628771067158.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Fluid Mount",
@@ -142,8 +156,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/francesco-tommasini-wdUjA_RN-p0_1628769746725.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Tiger",
@@ -152,8 +165,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/luwadlin-bosman-VBsGiVFjiRk_1628770265016.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Fluid AMOLED",
@@ -162,8 +174,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/marcel-strau%C3%9F-ynXyESA6Fdg_1628769849389.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Brown Fluids",
@@ -172,8 +183,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/brown_fluids.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Fuchsia Haze",
@@ -182,8 +192,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/mark-basarab-jq3-uQqPycA_1628751739785.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Blue & Orange",
@@ -192,8 +201,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/matt-palmer-AuEVJLpb96k_1628769454631.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Rose'n'Black",
@@ -202,8 +210,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/saymom-le%C3%A3o-LH6yP8o1oPA_1628752024034.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Sahara",
@@ -212,8 +219,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791143317.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Sahara Lighter",
@@ -222,8 +228,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/vitaly-otinov-sZzLSgJuQ20_1628791183711.png?raw=true",
 		"dimensions": "2328x3489",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Multicolor Fluid",
@@ -232,8 +237,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/01mFm_giy38-01~01_1629073357906.png",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Banana Fluid",
@@ -242,8 +246,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/02_cedar_dark_1628975828177.png",
 		"dimensions": "1440x3120",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Glow Fluid",
@@ -252,8 +255,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/977b7f15-a3a1-4b35-b705-f68d919a5c0f_1628976219202.png",
 		"dimensions": "1385x3000",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Dessert Flow",
@@ -262,8 +264,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/Kd_IiyO7IqQ-01~01_1629073814506.png?raw=true",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Wing Mix",
@@ -272,8 +273,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/LG%20Wing4921_1629007008041.png",
 		"dimensions": "2127x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Galaxy Flow",
@@ -282,8 +282,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/MdGbzzn49-o-01~01_1628976431355.png?raw=true",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Night Valley Fluid",
@@ -292,8 +291,7 @@
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/MsWZ18ySzco-01~01_1629070201469_1629071533162.png?raw=true",
 		"dimensions": "2015x4030",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Colliding Pills",
@@ -302,8 +300,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/colliding%20pills.png",
 		"dimensions": "375x812",
 		"collections": "featured,abstract,gradient",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Night Coast Flow",
@@ -312,8 +309,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Samsung%20Galaxy%20A5024811010130_1629005530964.png",
 		"dimensions": "2160x2160",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Comet Form",
@@ -322,8 +318,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Samsung%20Galaxy%20M125264_1629008779029.png",
 		"dimensions": "1600x1600",
 		"collections": "featured,abstract,objects",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "FeinWall",
@@ -332,8 +327,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Screenshot_20210815-215013_Video%20Player_1629075267617_1629083772365.png",
 		"dimensions": "1080x2400",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Planetarian Fluid",
@@ -342,8 +336,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Vivo%20Nex1393_1629007251407.png",
 		"dimensions": "1080x2160",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "River Flow",
@@ -352,8 +345,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20Mi%20Mix%2045732_1629004417203.png",
 		"dimensions": "1080x2340",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Beam Leak",
@@ -362,8 +354,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Xiaomi%20POCO%20F11535_1629074956099.png",
 		"dimensions": "1080x2246",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Cappuccino Stain",
@@ -372,8 +363,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/cap_stain.png",
 		"dimensions": "1961x4140",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Purple Mix",
@@ -382,8 +372,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/purple_backer.png",
 		"dimensions": "1382x2991",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Blue Droplets",
@@ -392,8 +381,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/blue_droplets.png",
 		"dimensions": "1382x2991",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Purple Droplet",
@@ -402,8 +390,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/purple_droplet.png",
 		"dimensions": "1382x2991",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Material Shapes",
@@ -412,8 +399,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes.png",
 		"dimensions": "375x812",
 		"collections": "featured,abstract,material you",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Purple Green Mix",
@@ -422,8 +408,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20Green%20mix.png",
 		"dimensions": "1080x2400",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Purple Rock",
@@ -432,8 +417,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Purple%20rock.png",
 		"dimensions": "1382x2991",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Darker Geode",
@@ -442,8 +426,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/darkergeode.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid,dark",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Blue Geode",
@@ -452,8 +435,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/bluegeode.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Emmerald Glow",
@@ -462,8 +444,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Flower 1",
@@ -492,8 +473,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/emerald%20glow.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Flowered Flow",
@@ -502,8 +482,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/flowered%20flow.png",
 		"dimensions": "1080x2460",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Joystick Blue",
@@ -542,8 +521,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/junglestrip.png",
 		"dimensions": "1080x2400",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Lighten Colors Fluid",
@@ -552,8 +530,7 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/lighten%20colors%20fluid.png",
 		"dimensions": "787x1280",
 		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
+		"featured": true
 	},
 	{
 		"name": "Material You Draw Blue",
