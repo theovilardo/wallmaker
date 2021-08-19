@@ -18,7 +18,8 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Pixel 6 Beige",
@@ -28,7 +29,8 @@
 		"dimensions": "3080x3920",
 		"copyright": "Free",
 		"collections": "abstract,stock,featured",
-		"featured": true
+		"featured": true,
+		"downloadable": false
 	},
 	{
 		"name": "Pixel 6 Dark Red",
