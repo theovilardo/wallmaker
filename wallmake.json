@@ -623,5 +623,125 @@
 		"collections": "featured,abstract,fluid",
 		"featured": true,
 		"downloadable": false
-	}
+	},
+	{
+		"name": "Pastel Colors Mix 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20colors%20mix%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20colors%20mix%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Colors Mix 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20colors%20mix%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20colors%20mix%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Colors Mix 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20colors%20mix%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20colors%20mix%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Dirt 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20dirt%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20dirt%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Dirt 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20dirt%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20dirt%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Dirt 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20dirt%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20dirt%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Draw Mix 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20draw%20mix%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20draw%20mix%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Draw Mix 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20draw%20mix%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20draw%20mix%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Draw Mix 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20draw%20mix%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20draw%20mix%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Flower 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Flower 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Flower 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
 ]
