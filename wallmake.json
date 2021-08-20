@@ -733,15 +733,5 @@
 		"collections": "featured,abstract,pastel",
 		"featured": true,
 		"downloadable": false
-	},
-	{
-		"name": "Pastel Flower 3",
-		"author": "MicuAzu",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%203.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%203.png",
-		"dimensions": "750x1334",
-		"collections": "featured,abstract,pastel",
-		"featured": true,
-		"downloadable": false
 	}
 ]
