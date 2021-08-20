@@ -733,5 +733,105 @@
 		"collections": "featured,abstract,pastel",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Pastel Flower 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20flower%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Garden 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20garden%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20garden%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Garden 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20garden%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20garden%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Garden 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20garden%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20garden%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel PlayDraw 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20playdraw%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20playdraw%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel PlayDraw 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20playdraw%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20playdraw%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel PlayDraw 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20playdraw%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20playdraw%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Random Draw 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20random%20draw%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20random%20draw%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Random Draw 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20random%20draw%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20random%20draw%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Random Draw 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20random%20draw%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20random%20draw%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
 	}
 ]
