@@ -62,7 +62,7 @@
 		"dimensions": "1440x3120",
 		"copyright": "Credits to it's creator",
 		"collections": "abstract,stock",
-		"downloadable": false
+		"downloadable": true
 	},
 	{
 		"name": "Dark Red Fluids",
@@ -505,7 +505,7 @@
 		"downloadable": false
 	},
 	{
-		"name": "Joystick Orange",
+		"name": "Joystick Red",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/joystick%20red.png",
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/joystick%20red.png",
