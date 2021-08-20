@@ -833,5 +833,65 @@
 		"collections": "featured,abstract,pastel",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Pastel Space 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20space%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20space%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Space 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20space%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20space%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Space 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20space%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20space%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Strips 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20strips%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20strips%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Strips 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20strips%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20strips%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Strips 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20strips%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20strips%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
 	}
 ]
