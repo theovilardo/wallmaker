@@ -893,5 +893,25 @@
 		"collections": "featured,abstract,pastel",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Egypt Night",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/egypt%20night.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/egypt%20night.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,landscapes,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Egypt",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/egypt.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/egypt.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,landscapes,gradient",
+		"featured": true,
+		"downloadable": false
 	}
 ]
