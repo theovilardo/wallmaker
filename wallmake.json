@@ -913,5 +913,35 @@
 		"collections": "featured,landscapes,gradient",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Pastel Painting 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20painting%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20painting%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Painting 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20painting%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20painting%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Painting 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20painting%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20painting%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
 	}
 ]
