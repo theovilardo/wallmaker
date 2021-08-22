@@ -943,5 +943,65 @@
 		"collections": "featured,abstract,pastel",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Abstract Fluid",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20fluid.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20fluid.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,fluid,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Green Slime",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20slime%20green.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20slime%20green.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Waves 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20waves%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20waves%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Waves 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20waves%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20waves%202.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Gradient Ball",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/gradient%20ball.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/gradient%20ball.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Holo Waves 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Holo%20waves%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Holo%20waves%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
 	}
 ]
