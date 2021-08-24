@@ -365,16 +365,6 @@
 		"downloadable": false
 	},
 	{
-		"name": "Blue Droplets",
-		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/blue_droplets.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/blue_droplets.png",
-		"dimensions": "1382x2991",
-		"collections": "featured,abstract,fluid",
-		"featured": true,
-		"downloadable": false
-	},
-	{
 		"name": "Purple Droplet",
 		"author": "Me",
 		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/purple_droplet.png",
