@@ -1233,5 +1233,55 @@
 		"collections": "featured,objects,pastel",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Abstract Fold Glassmorphed",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20folding%20glassmorphed.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20folding%20glassmorphed.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient,glassmorphism",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Fold",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20foldings.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20foldings.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Material You 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Material You 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20material%20you%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Abstract Pink Droplets",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20pink%20droplets.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/abstract%20pink%20droplets.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
 	}
 ]
