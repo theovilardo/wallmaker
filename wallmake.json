@@ -1293,5 +1293,15 @@
 		"collections": "featured,abstract,gradient",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Abstract Red & Blue Day",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Abstract%20Red%20%26%20Blue%20Shades%20Day.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Abstract%20Red%20%26%20Blue%20Shades%20Day.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
 	}
 ]
