@@ -1303,5 +1303,35 @@
 		"collections": "featured,abstract,gradient",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Material You Shapes 3",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20shapes%203.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material Pattern 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20pattern%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20pattern%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Geometry Orange",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/geometry%20orange.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/geometry%20orange.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient",
+		"featured": true,
+		"downloadable": false
 	}
 ]
