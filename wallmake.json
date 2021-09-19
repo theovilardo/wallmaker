@@ -1325,12 +1325,42 @@
 		"downloadable": false
 	},
 	{
-		"name": "Geometry Orange",
+		"name": "Glassmorph Shapes 1",
 		"author": "Me",
-		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/geometry%20orange.png",
-		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/geometry%20orange.png",
+		"url": "https://github.com/theovilardo/wallmaker/blob/main/glassmorph%20shapes%201.png?raw=true",
+		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/glassmorph%20shapes%201.png?raw=true",
 		"dimensions": "1080x2400",
-		"collections": "featured,abstract,gradient",
+		"collections": "featured,abstract,gradient,glassmorhism",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Blue",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20blue.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Orange",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20orange.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20orange.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pill & Cells",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pill%26cells.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pill%26cells.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient,objects",
 		"featured": true,
 		"downloadable": false
 	}
