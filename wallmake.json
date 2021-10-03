@@ -1363,5 +1363,85 @@
 		"collections": "featured,abstract,gradient,objects",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Google Material You Blue",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/google%20material%20you%20blue.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/google%20material%20you%20blue.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Google Material You Yellow",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/google%20material%20you%20yellow.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/google%20material%20you%20yellow.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Green Material 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/green%20material%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/green%20material%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Material You Dark Purple",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20dark%20purple.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/material%20you%20dark%20purple.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Meteorites 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/meteorites%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/meteorites%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,gradient,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Sunflower 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pixel%206%20sunflower%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pixel%206%20sunflower%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,objects,flowers",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pixelstyle Flower 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pixelstyle%20flower%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pixelstyle%20flower%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,objects,flowers",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Violette Material 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/violette%20material%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/violette%20material%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
 	}
 ]
