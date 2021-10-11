@@ -1330,7 +1330,7 @@
 		"url": "https://github.com/theovilardo/wallmaker/blob/main/glassmorph%20shapes%201.png?raw=true",
 		"thumbnail": "https://github.com/theovilardo/wallmaker/blob/main/glassmorph%20shapes%201.png?raw=true",
 		"dimensions": "1080x2400",
-		"collections": "featured,abstract,gradient,glassmorhism",
+		"collections": "featured,abstract,gradient,glassmorphism",
 		"featured": true,
 		"downloadable": false
 	},
@@ -1441,6 +1441,96 @@
 		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/violette%20material%201.png",
 		"dimensions": "1080x2400",
 		"collections": "featured,abstract,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Aquarella 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20aquarella%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20aquarella%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Aquarella 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20aquarella%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20aquarella%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Aquarella 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20aquarella%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20aquarella%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Material U 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Material U 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Material U 3",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%203.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Material U 4",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%204.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20mu%204.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel,material you",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Waves 1",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20waves%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20waves%201.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel,landscapes",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Pastel Waves 2",
+		"author": "MicuAzu",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20waves%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/pastel%20waves%202.png",
+		"dimensions": "750x1334",
+		"collections": "featured,abstract,pastel,landscapes",
 		"featured": true,
 		"downloadable": false
 	}
