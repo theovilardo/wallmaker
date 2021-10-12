@@ -1533,5 +1533,45 @@
 		"collections": "featured,abstract,pastel,landscapes",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "AMOLED Material You 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,amoled",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Material You 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%202.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,amoled",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Material You 3",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%203.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,amoled",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "AMOLED Material You 4",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%204.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/amoled%20material%20you%204.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,amoled",
+		"featured": true,
+		"downloadable": false
 	}
 ]
