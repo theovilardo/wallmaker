@@ -1573,5 +1573,75 @@
 		"collections": "featured,abstract,material you,amoled",
 		"featured": true,
 		"downloadable": false
+	},
+	{
+		"name": "Pixel 6 Renders V1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(1).jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
+	},
+	{
+		"name": "Pixel 6 Renders V2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(2).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(2).jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
+	},
+	{
+		"name": "Pixel 6 Renders V3",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(3).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(3).jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
+	},
+	{
+		"name": "Pixel 6 Renders V4",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(4).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365%20(4).jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
+	},
+	{
+		"name": "Pixel 6 Renders V5",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143308_365.jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
+	},
+	{
+		"name": "Pixel 6 Renders V6",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143310_928%20(1).jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143310_928%20(1).jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
+	},
+	{
+		"name": "Pixel 6 Renders V7",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143310_928.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/IMG_20210921_143310_928.jpg",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,material you,stock",
+		"featured": true,
+		"downloadable": true
 	}
 ]
