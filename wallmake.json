@@ -1643,5 +1643,125 @@
 		"collections": "featured,abstract,material you,stock",
 		"featured": true,
 		"downloadable": true
+	},
+	{
+		"name": "Crack Flow 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Crack%20Flow%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Crack%20Flow%201.png",
+		"dimensions": "1440x2880",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Crack Flow 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Crack%20Flow%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Crack%20Flow%202.png",
+		"dimensions": "1440x2880",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Crack Flow 3",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Crack%20Flow%203.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Crack%20Flow%203.png",
+		"dimensions": "1440x2880",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Flat Flowers 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Flat%20Flowers%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Flat%20Flowers%201.png",
+		"dimensions": "1080x1920",
+		"collections": "featured,abstract,objects",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Ice Flow",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Ice%20Flow.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Ice%20Flow.png",
+		"dimensions": "1170x2340",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Infinity Flow",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Intinity%20Flow.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Intinity%20Flow.png",
+		"dimensions": "1170x2340",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Marble Fluid",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Marble%20Fluid.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Marble%20Fluid.png",
+		"dimensions": "564x846",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Mount Sky Flow 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Mount%20Sky%20Flow%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Mount%20Sky%20Flow%201.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Mount Sky Flow 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Mount%20Sky%20Flow%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Mount%20Sky%20Flow%202.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Smudge Rose",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Smugdle%20Rose.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Smugdle%20Rose.png",
+		"dimensions": "1080x2400",
+		"collections": "featured,abstract,smudge,Real World",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Swirl Fluid 1",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Swirl%20Fluid%201.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Swirl%20Fluid%201.png",
+		"dimensions": "1404x3040",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
+	},
+	{
+		"name": "Swirl Fluid 2",
+		"author": "Me",
+		"url": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Swirl%20Fluid%202.png",
+		"thumbnail": "https://raw.githubusercontent.com/theovilardo/wallmaker/main/Swirl%20Fluid%202.png",
+		"dimensions": "1404x3040",
+		"collections": "featured,abstract,fluid",
+		"featured": true,
+		"downloadable": false
 	}
 ]
